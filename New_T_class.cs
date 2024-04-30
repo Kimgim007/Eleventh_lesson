@@ -18,7 +18,7 @@
 
             massOne = massTwo;
 
-            Notify($"Объект {obj} добавлен в массив");
+        
         }
         public void RemoveObject(T obj)
         {
